@@ -1,0 +1,27 @@
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.KeyBoardControl.resources
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResGen.read.1.tlog
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResGen.write.1.tlog
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\bin\Debug\FP.OnScreenKeyboard.dll
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.dll
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.pdb
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\bin\Debug\FP.OnScreenKeyboard.pdb
+C:\Projects\OnScreenKeyboardControl\FPosk\bin\Debug\FP.OnScreenKeyboard.dll
+C:\Projects\OnScreenKeyboardControl\FPosk\bin\Debug\FP.OnScreenKeyboard.pdb
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.KeyBoardControl.resources
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResGen.read.1.tlog
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResGen.write.1.tlog
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.dll
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.pdb
+C:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.Properties.Resources.resources
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.Properties.Resources.resources
+Y:\Projects\OnScreenKeyboardControl\FPosk\bin\Debug\FP.OnScreenKeyboard.dll
+Y:\Projects\OnScreenKeyboardControl\FPosk\bin\Debug\FP.OnScreenKeyboard.pdb
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResolveAssemblyReference.cache
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.Properties.Resources.resources
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.KeyBoardControl.resources
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResGen.read.1.tlog
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\ResGen.write.1.tlog
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.dll
+Y:\Projects\OnScreenKeyboardControl\FPosk\obj\Debug\FP.OnScreenKeyboard.pdb

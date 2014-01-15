@@ -1,0 +1,16 @@
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\bin\Debug\OnScreenKeyboardControl.dll
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\bin\Debug\OnScreenKeyboardControl.pdb
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\ResolveAssemblyReference.cache
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\OnScreenKeyboardControl.dll
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\OnScreenKeyboardControl.pdb
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\OnScreenKeyboardControl.KeyBoardControl.resources
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\bin\Debug\OnScreenKeyboardControl.dll
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\bin\Debug\OnScreenKeyboardControl.pdb
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\OnScreenKeyboardControl.KeyBoardControl.resources
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\GenerateResource.write.1.tlog
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\OnScreenKeyboardControl.dll
+C:\Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\OnScreenKeyboardControl.pdb
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\GenerateResource.read.1.tlog
+c:\users\felix\Desktop\My Projects\OnScreenKeyboardControl\OnScreenKeyboardControl\obj\Debug\GenerateResource.write.1.tlog

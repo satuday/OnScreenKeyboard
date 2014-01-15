@@ -1,0 +1,26 @@
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\bin\Debug\testApp.exe
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\bin\Debug\testApp.pdb
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\bin\Debug\FP.OnScreenKeyboard.dll
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\bin\Debug\FP.OnScreenKeyboard.pdb
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.Form1.resources
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.Properties.Resources.resources
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.exe
+C:\Users\Felix\Desktop\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.pdb
+Y:\Projects\OnScreenKeyboardControl\testApp\bin\Debug\testApp.exe
+Y:\Projects\OnScreenKeyboardControl\testApp\bin\Debug\testApp.pdb
+Y:\Projects\OnScreenKeyboardControl\testApp\bin\Debug\FP.OnScreenKeyboard.dll
+Y:\Projects\OnScreenKeyboardControl\testApp\bin\Debug\FP.OnScreenKeyboard.pdb
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.Form1.resources
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.Properties.Resources.resources
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.exe
+Y:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.pdb
+C:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.exe
+C:\Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.pdb
+I:\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.exe
+I:\My Projects\OnScreenKeyboardControl\testApp\obj\x86\Debug\testApp.pdb
